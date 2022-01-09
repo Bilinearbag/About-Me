@@ -1,7 +1,7 @@
 ***ABOUT ME***
 
 - 👋 Hi, I’m @Bilinearbag
-- 👨🏾‍💻 I’m a High School student who loves to code... I share all my codes in my repository, Please check it out.
+- 👨🏾‍💻 I’m a High School student who loves to code... I share all my codes in my repositries, Please check it out.
 - 📫 How to reach me : bilinearbag@gmail.com
 
 <!---
